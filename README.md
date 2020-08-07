@@ -10,5 +10,5 @@
 <br />
 <br />
 
-<img align="left" alt="geard-dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geard-dev&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="geard-dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=geard-dev&show_icons=true&hide_border=true&theme=dark&count_private=true" />
 <img align="left" alt="geard-dev's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geard-dev&theme=dark&layout=compact" />
