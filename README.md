@@ -5,7 +5,8 @@
 - Back End Web Development with Python (Flask), php, and Node.js
 - Graphical Desktop app development using C#, Python (PyGame, tkinter), Java, and Electron.js
 - Terminal App Development using the Powershell language, Batch, Bash, C#, C, and more
-- Android App Development using Java
+- Android App Development using Java and Flutter
+- iOS App Development using Flutter
 
 <br />
 <br />
