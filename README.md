@@ -8,9 +8,6 @@
 - Android App Development using Java and Flutter
 - iOS App Development using Flutter
 
-<br />
-<br />
-
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D726C1A)
 
 <br />
